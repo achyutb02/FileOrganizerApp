@@ -30,17 +30,22 @@ Inside the release, you'll find:
 
 ## 🍎 macOS Installation
 
-macOS blocks apps that are not from the App Store or a verified developer.  
-So the first launch requires a small workaround.
+Since this app is not signed by an identified developer, macOS will initially block it. You need to approve it in your System Settings.
 
-### **How to open the app on macOS:**
+**Step-by-Step Guide:**
 
-1. Download and unzip **FileOrganizer_Ready_To_Use_MAC.zip**
-2. Move `FileOrganizer.app` into your **Applications** folder (recommended)
-3. Right-click the app → **Open**
-4. macOS will show a security popup → click **Open**
+1.  **Download** and unzip the `FileOrganizer_Ready_To_Use_MAC.zip` file.
+2.  Move the `FileOrganizer` app to your **Applications** folder.
+3.  **Right-click** the app and select **Open**.
+    * *You will see a warning saying it can't be opened.* Click **Done** or **Cancel**.
+4.  Open your Mac's **System Settings** (or System Preferences).
+5.  Go to **Privacy & Security** (usually on the left sidebar).
+6.  Scroll down to the **Security** section.
+    * You should see a message: *"FileOrganizer was blocked from use because it is not from an identified developer."*
+7.  Click the **Open Anyway** button.
+8.  Enter your password if prompted, and then click **Open** on the final confirmation.
 
-After the first time, you can open it normally.
+**Note:** You only need to do this once. The app will open normally from now on.
 
 > 🔒 *Why?*  
 > Because this app isn't signed with a paid Apple Developer certificate (yet).  
