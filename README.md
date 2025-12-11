@@ -14,6 +14,10 @@ A cross-platform desktop app built with **Python** and **Tkinter** that lets you
 - Optional recursive mode to include subfolders
 - Works on **macOS** and **Windows**
 
+<img width="907" height="678" alt="demo1" src="https://github.com/user-attachments/assets/913315d9-52a0-4ae3-8cda-ddd1df52eaab" />
+<img width="907" height="678" alt="demo2" src="https://github.com/user-attachments/assets/0f5f22d0-a723-4fb3-a855-7af03f54e1b2" />
+
+
 ## Run from Source
 
 ```bash
