@@ -95,10 +95,3 @@ Once opened, simply choose a folder and start organizing your files with:
 - Undo last operation  
 
 ---
-
-If you'd like, I can also create:
-
-✅ A "Quick Start" section  
-✅ A "Features" section  
-✅ A "Roadmap"  
-✅ A "Known Issues" or "Limitations" section  
