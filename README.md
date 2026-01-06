@@ -15,7 +15,7 @@
 
 
 
-## 🛠 Installation Guide
+## Installation Guide
 
 You can download the latest version of FileOrganizer from the **Releases** page:
 
@@ -28,7 +28,7 @@ Inside the release, you'll find:
 
 ---
 
-## 🍎 macOS Installation
+## macOS Installation
 
 Since this app is not signed by an identified developer, macOS will initially block it. You need to approve it in your System Settings.
 
@@ -47,13 +47,13 @@ Since this app is not signed by an identified developer, macOS will initially bl
 
 **Note:** You only need to do this once. The app will open normally from now on.
 
-> 🔒 *Why?*  
+ *Why?*  
 > Because this app isn't signed with a paid Apple Developer certificate (yet).  
 > macOS requires this right-click bypass for unsigned apps.
 
 ---
 
-## 🪟 Windows Installation
+## Windows Installation
 
 Windows SmartScreen may show a warning, but the app is safe.
 
@@ -69,7 +69,7 @@ This only happens the first time—after that it opens normally.
 
 ---
 
-## ✔ System Requirements
+## System Requirements
 
 ### macOS
 - macOS 10.14 or newer (Intel or Apple Silicon)
@@ -81,7 +81,7 @@ This only happens the first time—after that it opens normally.
 
 ---
 
-## 🎯 You're Ready to Go!
+## You're Ready to Go!
 
 Once opened, simply choose a folder and start organizing your files with:
 
